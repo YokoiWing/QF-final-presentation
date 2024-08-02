@@ -1,6 +1,6 @@
 # QF-final-presentation
 
-This document is written by Yicheng Zhuang, Yukun Wang, Hongyan Xu, Yanru Guan and Yuluyang Xie from Peking University. It serves as a supplementary material of our presentaton in Quantitative Finance course 2024 summer, based on [Risk-Neutral Generative Networks](https://arxiv.org/abs/2405.17770). It contains the technical details, codes and our own opinions on future directions, along with literature research.
+This document is written by Yicheng Zhuang, Yukun Wang, Hongyan Xu, Yanru Guan and Yuluyang Xie from Peking University. It serves as a supplementary material of our presentaton in Quantitative Finance course 2024 summer. Based on [Risk-Neutral Generative Networks](https://arxiv.org/abs/2405.17770), it contains the technical details, codes and our own opinions on future directions, along with literature research.
 
 We hope our work can enhance the understanding of this work and similar topics. For further discussion, feel free to contact us through the following e-mail addresses:
 
